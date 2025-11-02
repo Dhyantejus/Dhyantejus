@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an "Engineering student pursuing a degree in Information Science at SIR M Visveswaraya Institute of Technology (SMVIT)."
+I am an Engineering student pursuing a degree in Information Science at SIR M Visveswaraya Institute of Technology (SMVIT).
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dattudhyan1@gmail.com) 
